@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Times_Table {
+public class  Times_Table {
     public static void main(String[] args) {
         // create scanner class obj
         Scanner scanner = new Scanner(System.in);
