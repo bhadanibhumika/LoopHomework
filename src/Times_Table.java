@@ -5,7 +5,7 @@ public class  Times_Table {
         // create scanner class obj
         Scanner scanner = new Scanner(System.in);
         //print for user
-        System.out.println("Enter any Number: ");
+        System.out.println("Enter any Number for print the times table: ");
         // create variable using scanner obj
         int a = scanner.nextInt();
 
