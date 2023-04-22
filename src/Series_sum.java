@@ -10,6 +10,7 @@ public class Series_sum {
         System.out.println("Enter the value of n: ");
         // create variable use scanner obj
         int n = scanner.nextInt();
+        System.out.println("The number  is: ");
 
         // declare variable n assign to 0
         double sum = 0;

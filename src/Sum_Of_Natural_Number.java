@@ -13,6 +13,7 @@ public class Sum_Of_Natural_Number {
         System.out.println("Enter the Number: ");
         // use variable and scanner obj
         num = scanner.nextInt();
+        System.out.println("the number for sum is :"+num);
 
         //for loop syntax
         for (i=1;i<=num;++i) // if num=10, i value increase 10 times

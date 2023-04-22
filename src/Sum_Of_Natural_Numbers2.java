@@ -14,6 +14,8 @@ public class Sum_Of_Natural_Numbers2 {
         System.out.println("Enter the Number: ");
         // use variable and scanner obj
         num = scanner.nextInt();
+        System.out.println("the number for sum is :"+num);
+
 
         //for loop syntax
         for (i=1;i<=num;++i)
