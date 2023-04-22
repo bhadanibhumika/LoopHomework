@@ -23,7 +23,7 @@ public class Sum_Of_X_Range {
             {
                 sum=i+sum;
             }
-                System.out.println("The sum of x from 1 to "+num+" is: "+sum);
+                System.out.println("The sum of range numbers  1 to "+num+" is: "+sum);
 
         }
 

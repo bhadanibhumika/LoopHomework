@@ -11,7 +11,7 @@ public class Count_A_In_String {
 
         //crate variable n use scanner obj
         String string = scanner.nextLine();
-
+        //print for string
         System.out.println(string);
 
         // declare variable
