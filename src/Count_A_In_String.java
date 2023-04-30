@@ -14,6 +14,7 @@ public class Count_A_In_String {
         //print for string
         System.out.println(string);
 
+
         // declare variable
         char ch = 'a';
         int count =0;
